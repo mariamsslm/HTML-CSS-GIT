@@ -10,6 +10,6 @@ a {
 .message__time message__time--old {
   opacity: 1;
 }
-.message {
+.messages {
   line-height: 100%;
 }
