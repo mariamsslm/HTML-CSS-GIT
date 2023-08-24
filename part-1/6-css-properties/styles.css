@@ -1,1 +1,15 @@
 /* Add your CSS code below */
+a {
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+}
+.message__time {
+  font-size: 0.9rem;
+}
+.message__time message__time--old {
+  opacity: 1;
+}
+.message {
+  line-height: 100%;
+}
