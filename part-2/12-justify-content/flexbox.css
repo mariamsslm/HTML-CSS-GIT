@@ -1,5 +1,7 @@
 .countries {
   display: flex;
+  justify-content: left;
+  flex-direction: column;
 }
 
 .countries--second .country {
